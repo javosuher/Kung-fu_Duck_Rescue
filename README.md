@@ -7,3 +7,5 @@ Este juego fué realizado por:
 * [Angel Bayón Romero](https://twitter.com/AngelBayRo)
 * [Jose María Riol Sánchez](https://twitter.com/Chemoso93)
 * [Javier Osuna Herrera (Yo)](https://twitter.com/Chemoso93)
+
+![logo](https://javosuher.files.wordpress.com/2015/05/kung-fu-duck-rescue2.png)
